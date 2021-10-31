@@ -1,0 +1,10 @@
+{
+    "name": "jon doe",
+    "age" : 30,
+    "address": {
+        "long": 20,
+        "lat":30
+    },
+    "myAdd": "lk"
+
+}

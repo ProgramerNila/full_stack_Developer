@@ -8,4 +8,24 @@
 
 // JSON Data Format
 
+const user = {
+    name: 'Jon',
+    age: 30,
+}
+
+const jsonData = JSON.stringify(user);
+console.log(jsonData);
+const convert = JSON.parse(jsonData);
+
+console.log(convert);
+
+//  
+
+
+
+
+
+
+
+
 
